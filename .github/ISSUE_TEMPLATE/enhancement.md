@@ -1,9 +1,9 @@
 ---
-name: Enhancement
-about: Enhance our documents and codes to help us improve
-title: ''
-labels: ''
-assignees: ''
+Name: Enhancement
+About: Enhance our documents and codes to help us improve
+Title: ''
+Labels: ''
+Assignees: ''
 
 ---
 

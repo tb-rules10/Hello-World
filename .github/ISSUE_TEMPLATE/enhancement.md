@@ -1,9 +1,9 @@
 ---
-Name: Enhancement
-About: Enhance our documents and codes to help us improve
-Title: ''
-Labels: ''
-Assignees: ''
+name: Enhancement
+about: Enhance our documents and codes to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -29,4 +29,3 @@ Browser [e.g. stock browser, safari]
 Version [e.g. 22]
 Additional context
 Add any other context about the problem here.
-

@@ -1,0 +1,5 @@
+type Program() =   
+ class  
+  do printfn "Hello World"  
+ end  
+new Program()
